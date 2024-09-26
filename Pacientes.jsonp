@@ -1,0 +1,39 @@
+misdatos({
+    "pacientes": [
+        {
+            "id": 1,
+            "nombre": "Juan Pérez",
+            "enfermedad": "Diabetes Tipo 2",
+            "edad": 45,
+            "estado": "Estable"
+        },
+        {
+            "id": 2,
+            "nombre": "María González",
+            "enfermedad": "Hipertensión",
+            "edad": 60,
+            "estado": "Crítico"
+        },
+        {
+            "id": 3,
+            "nombre": "Carlos López",
+            "enfermedad": "Neumonía",
+            "edad": 34,
+            "estado": "Recuperación"
+        },
+        {
+            "id": 4,
+            "nombre": "Ana Torres",
+            "enfermedad": "Insuficiencia Renal",
+            "edad": 50,
+            "estado": "Estable"
+        },
+        {
+            "id": 5,
+            "nombre": "Pedro Sánchez",
+            "enfermedad": "Covid-19",
+            "edad": 28,
+            "estado": "Crítico"
+        }
+    ]
+});
